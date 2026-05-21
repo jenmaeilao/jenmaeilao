@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jen 👩🏻‍💻
 
-<!--
-**jenmaeilao/jenmaeilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## ✨ About Me
+- BSIT Student
+- Currently learning Web Development
+- Exploring UI/UX and basic software engineering
+- Beginner but improving every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I’m Learning
+- HTML, CSS, JavaScript
+- PHP & MySQL
+- Git & GitHub
+- Blender (for 3D basics)
+
+## 📌 Projects
+- Simple Portfolio Website
+- soon
+
+## 📫 Contact
+- GitHub: https://github.com/jenmaeilao
+- Email: jenmaeilao@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
