@@ -1,27 +1,45 @@
-# Hi, I'm Jen 👩🏻‍💻
+# Hi, I'm Jen 
 
 Welcome to my GitHub profile!
 
-## ✨ About Me
-- BSIT Student
-- Currently learning Web Development
-- Exploring UI/UX and basic software engineering
-- Beginner but improving every day
+## About Me
+- 2nd Year BSIT Student (Sophomore)
+- Currently learning Web Development and Software Development fundamentals
+- Exploring UI/UX Design, Networking, and Database Management
+- Still figuring out my tech path while continuously improving and building projects
 
-## 🛠️ Tech I’m Learning
-- HTML, CSS, JavaScript
-- PHP & MySQL
+## Tech & Tools I’m Learning
+- HTML, CSS, and JavaScript
+- PHP, MySQL, and XAMPP
+- Python and C++
 - Git & GitHub
-- Blender (for 3D basics)
+- Cisco Packet Tracer (basic routing, switching, and network configuration)
+- Figma
+- Blender (3D basics)
 
-## 📌 Projects
+## Projects
 - Simple Portfolio Website
-- soon
 
-## 📫 Contact
+### Featured Projects
+- **Yawnzzn Fashion Website**  
+  A fashion-themed web project with Python integration.
+
+- **Byahe** *(Ongoing)*  
+  A web-based event venue rental platform for booking places for specific events.
+
+- **LakbayLokal** *(Ongoing)*  
+  A travel booking website that combines hotel reservations with personalized itinerary planning.
+
+## Contact
 - GitHub: https://github.com/jenmaeilao
 - Email: jenmaeilao@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+![Jen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JENMAEILAO&show_icons=true&theme=buefy)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JENMAEILAO&theme=github-light)
+
+---
+
+Thanks for visiting my profile!
