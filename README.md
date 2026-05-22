@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile!
 
+## Portfolio  
+Check out my portfolio here: https://jenmaeilao.github.io/jenmaeilao/
+
 ## About Me
 - 2nd Year BSIT Student (Sophomore)
 - Currently learning Web Development and Software Development fundamentals
