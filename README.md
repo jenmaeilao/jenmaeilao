@@ -41,7 +41,9 @@ Check out my portfolio here: https://jenmaeilao.github.io/jenmaeilao/
 
 ![Jen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JENMAEILAO&show_icons=true&theme=buefy)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JENMAEILAO&theme=github-light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JENMAEILAO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JENMAEILAO&layout=compact&theme=tokyonight)
 
 ---
 
