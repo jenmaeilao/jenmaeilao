@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## Portfolio  
-Check out my portfolio here: https://jenmaeilao.github.io/jenmaeilao/
+Check out my portfolio here: [https://jenmaeilao.github.io](https://jenmaeilao.github.io/)
 
 ## About Me
 - 2nd Year BSIT Student (Sophomore)
