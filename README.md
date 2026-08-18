@@ -1,48 +1,52 @@
-# Hi, I'm Jen 
+# Hi, I'm Jen
 
-Welcome to my GitHub profile!
+I'm a 3rd Year BSIT student interested in **Software Quality Assurance, Software Testing, and Systems Analysis**.
 
-## Portfolio  
-Check out my portfolio here: [https://jenmaeilao.github.io](https://jenmaeilao.github.io/)
+I'm currently exploring QA through academic projects, testing, documentation, and hands-on practice while continuing to strengthen my technical and communication skills.
 
 ## About Me
-- 2nd Year BSIT Student (Sophomore)
-- Currently learning Web Development and Software Development fundamentals
-- Exploring UI/UX Design, Networking, and Database Management
-- Still figuring out my tech path while continuously improving and building projects
 
-## Tech & Tools I’m Learning
-- HTML, CSS, and JavaScript
-- PHP, MySQL, and XAMPP
-- Python and C++
-- Git & GitHub
-- Cisco Packet Tracer (basic routing, switching, and network configuration)
-- Figma
-- Blender (3D basics)
+- 3rd Year BSIT Student
+- Interested in Software QA and Software Testing
+- Interested in finding bugs, improving existing systems, and understanding how users interact with software
+- Enjoy documentation, organization, and project coordination
+- Currently exploring QA, Systems/Business Analysis, and Project Management
+- Continuously learning and building through academic projects
+
+## Skills & Tools
+
+| Category | Skills |
+|---|---|
+| Programming & Database | SQL / MySQL, HTML, CSS, JavaScript, C++, PHP, Python |
+| Version Control | Git & GitHub |
+| Tools | Figma, XAMPP, Cisco Packet Tracer |
 
 ## Projects
-- Simple Portfolio Website
 
-### Featured Projects
-- **Yawnzzn Fashion Website**  
-  A fashion-themed web project with Python integration.
+| Project | Description | Role |
+|---|---|---|
+| **Tagpo** | Web-based event venue rental platform for finding and booking venues for specific events. | Project Lead — feature testing, bug tracking, documentation (README), task assignment & progress monitoring |
+| **LakbayLokal** | Travel booking website combining hotel reservations with personalized itinerary planning. | Project Lead — feature testing, bug tracking, documentation (README), task assignment & progress monitoring |
+| **Yawnzzn Fashion Website** | Fashion-themed web project exploring e-commerce functionality and web development. | — |
 
-- **Byahe** *(Ongoing)*  
-  A web-based event venue rental platform for booking places for specific events.
+## Currently Learning
 
-- **LakbayLokal** *(Ongoing)*  
-  A travel booking website that combines hotel reservations with personalized itinerary planning.
+| Area | Focus |
+|---|---|
+| QA Fundamentals | Software Testing Fundamentals, Test Case Design, Bug Reporting & Documentation |
+| Technical | SQL, SDLC |
+| Process | Agile / Scrum, Quality Assurance Practices |
+| Soft Skills | Technical Communication |
+
+## Portfolio
+
+[View my portfolio](https://JENMAEILAO.github.io/)
 
 ## Contact
-- GitHub: https://github.com/jenmaeilao
+
+- GitHub: [jenmaeilao](https://github.com/JENMAEILAO)
 - Email: jenmaeilao@gmail.com
 
 ---
 
-![Jen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JENMAEILAO&show_icons=true&theme=buefy)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JENMAEILAO&theme=tokyonight)
-
----
-
-Thanks for visiting my profile!
+Thanks for visiting my profile! 
